@@ -1,7 +1,7 @@
-# LMC
 ![LMC](https://github.com/allenamaya/LMC-GROUP/assets/126647363/a63ffe3c-177c-48b4-b2a5-218c991a640e)
- Limited
 
+
+#LMC 
 LMC Limited is a diverse group of companies that specializes in logistics, real estate, medical equipment, and hotel services. This repository contains the website for LMC Limited, providing information about our services, company profile, and contact details.
 
 ## Website Structure
@@ -38,5 +38,8 @@ To ensure proper categorization and search engine optimization, we have included
 - `accommodation`: Specifically identifies content related to accommodation within the hotel services section.
 - `dining`: Specifically identifies content related to dining services within the hotel services section.
 - `event facilities`: Specifically identifies content related to event facilities within the hotel services section.
+
+ 
+![logo name](https://github.com/allenamaya/LMC-GROUP/assets/126647363/be6ec918-0148-4e9d-861e-bf41c1182a13)
 
 
